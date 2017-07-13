@@ -1,0 +1,133 @@
+/* 
+  Localizable.strings
+  3R Bible Quiz
+
+  Created by Sirisha.G on 30/05/13.
+  Copyright (c) 2013 Sirisha.G. All rights reserved.
+*/
+/*------------------ Fonts ------------------------*/
+"MSB"="MyriadPro-BoldCond";
+"MREGULAR"="MyriadPro-Regular";
+"MBOLD"="MyriadPro-Bold";
+"MSEMIBOLD"="MyriadPro-Semibold";
+"RCON"="Roboto-Condensed";
+"MCON"="MyriadPro-Cond";
+
+"BUTTON_SIZE"="27";
+"BUTTON_SIZE_IPAD"="52";
+"UPGRADE_FONT_SIZE"="20";
+"HEADER_LAB_FONT"="20";
+"PAGE_TITLES"="27";
+"PAGE_TITLES_IPAD"="50";
+
+
+/* ---------------- INFO Text --------------------*/
+
+"HEADING_TEXT"="Défier le Deakon v3.2";
+"DETAILS"="© 2013 d'O V Ibitoye. Tous droits réservés\n3R Bible Quiz logo et le slogan,";
+"BOLD"="\"Révélant, Captivant, et Entraînant\",";
+"AFTER_BOLD"="dans le texte et les dés, sont des personnages et des marques de Olusegun Victor Ibitoye et sont protégés par les lois internationales sur le copyright.\n\nÉcriture sainte prise de La Bible Du Semeur. Copyright © 1992, 1999 par Biblica, Inc.® Utilisé avec la permission de Zondervan. Tous droits réservés.";
+"INFO_CREDITS"="CRÉDITS";
+"DESIGNER"="Designer";
+"DESIGNER_NAME"="- Segun Ibitoye";
+"CONTRIBUTOR"="Contributeur ";
+"Scriptures"="(Ecritures)";
+"CONTRIBUTOR_NAME"="- Adetola Ibitoye";
+"EDITOR"="Traducteur";
+"EDITOR_NAME"="- Ilhe DÃ©borah";
+"EDITOR_NAME_IPAD"="- Ilhe DÃ©borah";
+"AUTHOR"="Auteur";
+"AUTHOR_NAME"="- Segun Ibitoye\n\nQuiz tiré du ";
+"BIBLE"="Quiz sur la Bible pour les Princes et les Princesses ";
+"BY"="de ";
+"NAME"="Segun Ibitoye.";
+"END"=" Disponible en formats de poche et ebook.";
+
+/* ------------------ HELP Page --------------------*/
+"HELP_HEADING"="INSTRUCTIONS";
+"HELP_DETAILS"="Pour commencer, sélectionnez au moins ";
+"CATEGORIES_SELECT"="deux catégories";
+"AFTER_CATEGORY"="puis procédez pour choisir le";
+"LEVEL"="niveau ";
+"AFTER_LEVEL"="que vous souhaitez jouer. Chaque tour a quinze questions et vous pouvez jouer de nombreux tours. Dans la version gratuite, les joueurs sont limités au niveau";
+"LEVEL_NAME"="\"Facile.\"";
+"AFT_LEVEL_NAME"="Pour lire d'autres niveaux, s'il vous plaît acheter la version complète en cliquant sur le bouton ";
+"BUY"="\"«Acheter»\"";
+"AFT_BUY"="dans les «niveaux» QUIZ écran, ou en cliquant sur";
+"UPGRADE"="\"«Mise à niveau vers la version complète\" ";
+"END_STR"="à la fin de chaque cycle ou lorsque vous avez soumis votre score.";
+"CREDITS"="Les joueurs seront présentés avec trois types de questions dans cette application:\n";
+"AUTHER_DETAILS"="  • la question à choix multiple de quatre choix,\n  • la question à choix multiple de cinq choix, et, \n  • la question à deux choix, vrai ou faux";
+"END_STRING"="Choisissez une réponse et suivez les instructions à l'écran. Lorsque les choix de la question et de réponse sont longs, vous devrez peut-être faire défiler vers le haut si vous utilisez un Smartphone. La mauvaise réponse (s) sera surligné en rouge et l'endroit dans la Bible où les utilisateurs peuvent vérifier le bon choix sera également affiché et souligné. Vous avez 60 secondes pour répondre à chaque question. Si vous ne répondez pas à une question avant l'expiration du temps, l'application va charger la question suivante. A la fin de chaque tour de quinze questions, votre score, en pourcentage, sera affichée. Amusez-vous!\n\nQuiz tiré du";
+
+/* ---------------- Buttons Text ---------------------*/
+"INFO"="Info";
+"HELP"="Aide";
+"PLAY"="Jouer";
+"RESTART"="Reprendre";
+"SUBMIT"="Envoyer";
+"NEXT"="Suivant";
+"BUY_BUTTON"="Acheter";
+"RESTORE"="Rétablir";
+"LOADING_TEXT"="chargement";
+/* -------------- QUIZ Categories Screen -------------*/
+"HEADING"="CATÉGORIÉS DE QUIZ";
+"MIN CATEGORIES"="Choisissez au moins deux catégories";
+"PEOPLE"="Personnes";
+"PLACES"="Lieux";
+"EVENTS"="Evénements";
+"STATEMENTS"="Déclarations";
+"MISCELLANEOUS"="Divers";
+"SELECTALL"="Tout Sélectionner";
+
+
+/* --------------------- QUIZ Level ----------------------*/
+"QUIZ_LEVEL"="LES NIVEAUX DE QUIZ";
+"MIN LEVELS"="Choisissez un niveau ";
+"EASY"="Facile";
+"INTERMEDIATE"="Intérmédiaire";
+"ADVANCED"="Avancé";
+"INTERMEDIATE_LEVEL"="Intérmédiaire";
+"ADVANCED_LEVEL"="Avancé";
+"NO OF ROUNDS"="Vous avez";
+"ROUNDS"="tours!";
+
+/*------------------ Questions display page ----------------*/
+"QUESTION"="Quéstion";
+"OF"="à";
+"LEVEL_SELECT"="Niveau";
+"ROUNDTEXT"="Ronde";
+/*------------------ Score Page ------------------------*/
+"INSPIRED"="SOYEZ INSPIRÉS!";  
+"SCORE"="SCORE";
+"NAME LAB"="NOM";
+"LESS_THAN_40"="\“Merveilleux savoir hors de ma portée, savoir trop sublime pour que je l'atteigne.\”  - Psaume 139:6";
+"EQUAL_40"="\“Ces proverbes donneront aux gens sans expérience le bon sens et aux jeunes la connaissance et le jugement.\” - Proverbes 1:4";
+"LESS_THAN_60"="\“Le moqueur a beau chercher la sagesse: elle lui échappe, alors que la connaissance est facilement à la portée de l'homme de bon sens.\”  - Proverbes 14:6";
+"EQUAL_60"="\“Recherchez mon éducation plutôt que de l'argent,et choisissez la connaissance plutôt que l'or, l'or le plus pur.\” - Proverbes 8:10";
+"LESS_THAN_80"="\“Tout cela vient de l'Eternel, le Seigneur des armées célestes. Son plan est merveilleux,sa sagesse est immense.\” -  Esaïe 28:29";
+"GREATER_THAN_80"="\“Frères, j'ai personnellement la conviction que vous êtes pleins de bonté, remplis de toute la connaissance, et tout à fait capables, par conséquent, de vous conseiller les uns les autres.\” - Romains 15:14";
+"EQUAL_100"="\“J'ai combattu le bon combat. J'ai achevé ma course. J'ai gardé la foi.\” - 2 Timothée 4:7";
+"GET_ACCESS"="Accédez à plus de 700\nquestions et réponses";
+"UPGRADE_VERSION"="Mise à niveau vers\nla Version complète";
+
+/*----------------------- Scores display Page -----------------*/
+"SCOREBOARD"="TABLEAU DE BORD";
+"DATE"="DATE";
+
+/* -------------------- Alert Message ------------------------*/
+"NO OF CATEGORIES SELECT"="Vous devez sélectionner au moins deux catégories!";
+"UPGRADE MSG"="S'il vous plaît mettez à niveau vers la version complète";
+"NO OF LEVELS"="Vous devez sélectionner un niveau!";
+"ANSWER"="Vous devez choisir une réponse!";
+"UPGRADE_PLZ"="S'il vous plaît mettez à niveau vers la version complète";
+"OKAY"="Ok";
+"CANCEL"="Annuler";
+"SCORE_NAME"="S'il vous plaît Entrez nom";
+"NETWORK_MESSAGE"="Internet est tenu de consulter le serveur. S'il vous plaît vérifier vos paramètres de s'assurer que vous êtes connecté.";
+"INAPP PURCHASR"="Votre achat a été un succès. ";
+"NO_PRODUCTS"="Pas de produits trouvés pour restaurer!";
+"RESTORE_SUCCESS"="Produits restaurées avec succès";
+"FAILED_TRANCTION"="Transaction Failed";
+/*------------------ Rate This App ----------------------*/
+"Rate This App"="Taux 3R Bible Quiz";

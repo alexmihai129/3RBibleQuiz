@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6e0aa0df-1ec4-ce4e-86e0-665848e1934e++7808",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6e0aa0df-1ec4-ce4e-86e0-665848e1934e++7808" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6e0aa0df-1ec4-ce4e-86e0-665848e1934e++7808" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3EF0DFA1-D2F5-49A5-AC5F-A2DE6DC9FA3D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6e0aa0df-1ec4-ce4e-86e0-665848e1934e++7808" : "3RBibleQuiz"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "3R Bible Quiz",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "3R Bible Quiz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.10.201\/svn\/IOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6e0aa0df-1ec4-ce4e-86e0-665848e1934e++7808"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+/* 
+  Localizable.strings
+  3R Bible Quiz
+
+  Created by Sirisha.G on 30/05/13.
+  Copyright (c) 2013 Sirisha.G. All rights reserved.
+*/
+/*------------------ Fonts ------------------------*/
+"MSB"="MyriadPro-BoldCond";
+"MREGULAR"="MyriadPro-Regular";
+"MBOLD"="MyriadPro-Bold";
+"MSEMIBOLD"="MyriadPro-Semibold";
+"RCON"="Roboto-Condensed";
+"MCON"="MyriadPro-Cond";
+
+"BUTTON_SIZE"="27";
+"BUTTON_SIZE_IPAD"="52";
+"UPGRADE_FONT_SIZE"="20";
+"HEADER_LAB_FONT"="20";
+"PAGE_TITLES"="27";
+"PAGE_TITLES_IPAD"="50";
+
+
+/* ---------------- INFO Text --------------------*/
+
+"HEADING_TEXT"="El desafío del Deakon v3.2";
+"DETAILS"="© 2013 por O V Ibitoye. Todos los derechos reservados. 3R Bible Quiz, logo y eslogan ";
+"BOLD"="\"Revelador, Fascinante y Emocionante\",";
+"AFTER_BOLD"="en el texto y los dados,  son personajes y marcas registradas de Olusegun Victor Ibitoye y están protegidos por leyes de derechos de autor internacional.\n\nTodos los textos tomados de LA SANTA BIBLIA, NUEVA VERSION INTERNACIONAL®. Derechos de autor © 1973, 1978, 1984, 2010 Biblica. Usado bajo el permiso de Zondervan. Todos los derechos reservados.";
+"INFO_CREDITS"="CREDITOS";
+"DESIGNER"="Diseñador";
+"DESIGNER_NAME"="- Segun Ibitoye";
+"CONTRIBUTOR"="Colaborador";
+"Scriptures"="(Escrituras)";
+"CONTRIBUTOR_NAME"="- Adetola Ibitoye";
+"EDITOR"="Traducteur";
+"EDITOR_NAME"="- J. Bernardo Restrepo\n                                                   - Luis Bermer";
+"EDITOR_NAME_IPAD"="- J. Bernardo Restrepo\n                                                                                                            - Luis Bermer";
+"AUTHOR"="Autor";
+"AUTHOR_NAME"="      - Segun Ibitoye\n\nQuiz tomado de";
+"BIBLE"="Quiz Bíblico para Principles y Princesas";
+"BY"=" por";
+"NAME"=" Segun Ibitoye.";
+"END"=" Disponible en libro electrónico y en format de libro de bolsillo.";
+
+
+/* ------------------ HELP Page --------------------*/
+"HELP_HEADING"="INSRUCCIONES:";
+"HELP_DETAILS"="Para iniciar, seleccione al menos ";
+"CATEGORIES_SELECT"="dos categorías ";
+"AFTER_CATEGORY"="y proceda a escoger el";
+"LEVEL"="nivel ";
+"AFTER_LEVEL"="que desea jugar. Cada ronda tiene quince preguntas y se puede jugar de muchas rondas. En la version gratuita, los jugadores están restringidos al nivel ";
+"LEVEL_NAME"=" \"Fácil\".";
+"AFT_LEVEL_NAME"=" Para jugar a los otros niveles, compre la versión completa haciendo clic en el botón ";
+"BUY"=" \"Comprar\"";
+"AFT_BUY"="en la pantalla de \"Niveles de QUIZ\" o haciendo clic en ";
+"UPGRADE"=" \"Actualizar a versión completa\" ";
+"END_STR"="al final de cada ronda o cuando han presentado su puntuación.";
+"CREDITS"="Los jugadores se presentará con tres tipos de preguntas en esta aplicación:\n";
+"AUTHER_DETAILS"="  • Pregunta con 4 opciones de selección multiple \n  • Pregunta con 5 opciones de selección multiple  \n  • Pregunta de 2 opciones: Verdadero o Falso";
+"END_STRING"="Seleccione una respuesta y sig alas instrucciones en la pantalla. Cuando la pregunta y las opciones de respuesta son largos, es posible que tenga que desplazarse hacia arriba si usted está usando un teléfono inteligente. Las respuestas incorrectas serán reslatadas en color rojo y se mostrará subrayada la ubicación en La Biblia donde los usuarios pueden verificar la opción correcta. Usted tiene 60 segundos para responder cada pregunta. Si no responde antes de que el tiempo se agote, la aplicación cargará la siguiente pregunta. Al final de cada turnode 15 preguntas, se mostrará el porcentaje de su puntaje . Disfrute!\n\nQuiz tomado de ";
+
+/* ---------------- Buttons Text ---------------------*/
+
+"INFO"="Info";
+"HELP"="Ayuda";
+"PLAY"="Jugar";
+"RESTART"="Reiniciar";
+"SUBMIT"="Enviar";
+"NEXT"="Siguiente";
+"BUY_BUTTON"="Comprar";
+"RESTORE"="Restaurar";
+"LOADING_TEXT"="Carga...";
+/* -------------- QUIZ Categories Screen -------------*/
+"HEADING"="CATEGORIAS ";
+"MIN CATEGORIES"="Seleccione al menos dos categorías";
+"PEOPLE"="Personas";
+"PLACES"="Lugares";
+"EVENTS"="Eventos";
+"STATEMENTS"="Declaraciones";
+"MISCELLANEOUS"="Varios";
+"SELECTALL"="Seleccionar Todas";
+
+/* --------------------- QUIZ Level -------------------*/
+"QUIZ_LEVEL"="NIVELES";
+"MIN LEVELS"="Seleccione un nivel";
+"EASY"="Fácil";
+"INTERMEDIATE"="Intermedio";
+"ADVANCED"="Avanzado";
+"INTERMEDIATE_LEVEL"="Media";
+"ADVANCED_LEVEL"="Difícil";
+"NO OF ROUNDS"="Tiene";
+"ROUNDS"="turnos!";
+
+/*------------------ Questions display page ----------------*/
+"QUESTION"="Preguntas";
+"OF"="al";
+"LEVEL_SELECT"="Nivel";
+"ROUNDTEXT"="Ronda";
+/*------------------ Score Page ------------------------*/
+"INSPIRED"="INSPÍRATE!";
+"SCORE"="PUNTAJE";
+"NAME LAB"="NOMBRE";
+"LESS_THAN_40"="\“Conocimiento tan maravilloso rebasa mi comprensión; tan sublime es que no puedo entenderlo.\” – Salmos 139:6";
+"EQUAL_40"="\“...para infundir sagacidad en los inexpertos, conocimiento y discreción en los jóvenes.\” – Proverbios 1:4";
+"LESS_THAN_60"="\“El insolente busca sabiduría y no la halla; para el entendido, el conocimiento es cosa fácil.\” – Proverbios 14:6";
+"EQUAL_60"="\“Opten por mi instrucción, no por la plata; por el conocimiento, no por el oro refinado.\” – Proverbios 8:10 ";
+"LESS_THAN_80"="\“También esto viene del Señor Todopoderoso, admirable por su consejo y magnífico por su sabiduría.\” – Isaías 28:29";
+"GREATER_THAN_80"="\“Por mi parte, hermanos míos, estoy seguro de que ustedes mismos rebosan de bondad, abundan en conocimiento y están capacitados para instruirse unos a otros.\” Romanos 15:14";
+"EQUAL_100"="\“He peleado la buena batalla, he terminado la carrera, me he mantenido en la fe.\” - 2 Timoteo 4:7";
+"GET_ACCESS"="Obtener acceso a mas de\n700 preguntas y respuestas";
+"UPGRADE_VERSION"="Actualizar a la\nVersion complete";
+
+
+/*----------------------- Scores display Page -----------------*/
+"SCOREBOARD"="TABLA DE PUNTAJES";
+"DATE"="FECHA";
+
+/* ---------------------- Alert Message ---------------------*/
+"NO OF CATEGORIES SELECT"="Debe seleccionar al menos dos categorías!";
+"UPGRADE MSG"="Por favour actualice a la version complete.";
+"NO OF LEVELS"="Debe seleccionar un nivel!";
+"ANSWER"="Debe seleccionar una respuesta!";
+"UPGRADE_PLZ"="Por favour actualice a la version complete.";
+"OKAY"="Aceptar";
+"CANCEL"="Cancelar";
+"SCORE_NAME"="Por favor, introduzca el nombre";
+"NETWORK_MESSAGE"="Se requiere Internet de consultar a el servidor. Por favor, verifica la configuracion de para asegurar que está conectado.";
+"INAPP PURCHASR"="Su compra se ha realizado correctamente.";
+"NO_PRODUCTS"="No hay productos encontrados para restaurar!";
+"RESTORE_SUCCESS"="Productos restaurados con éxito";
+"FAILED_TRANCTION"="Transaction Failed";
+/*------------------ Rate This App ----------------------*/
+"Rate This App"="Califique 3R Bible Quiz";

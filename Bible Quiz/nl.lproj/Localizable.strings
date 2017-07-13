@@ -1,0 +1,130 @@
+/* 
+  Localizable.strings
+  3R Bible Quiz
+
+  Created by Sirisha.G on 30/05/13.
+  Copyright (c) 2013 Sirisha.G. All rights reserved.
+*/
+
+/*------------------ Fonts ------------------------*/
+"MSB"="MyriadPro-BoldCond";//MyriadPro-Bold
+"MREGULAR"="MyriadPro-Regular";
+"MBOLD"="MyriadPro-Bold";
+"MSEMIBOLD"="MyriadPro-Semibold";
+"RCON"="Roboto-Condensed";
+"MCON"="MyriadPro-Cond";
+
+"BUTTON_SIZE"="27";
+"BUTTON_SIZE_IPAD"="52";
+"UPGRADE_FONT_SIZE"="18";
+"HEADER_LAB_FONT"="20";
+"PAGE_TITLES"="27";
+"PAGE_TITLES_IPAD"="50";
+/* ---------------- INFO Page --------------------*/
+
+
+"HEADING_TEXT"="Challenge the Deakon v3.2";
+"DETAILS"="© 2013 by O V Ibitoye. All rights reserved\n3R Bible Quiz logo and the slogan,";
+"BOLD"="\"Revealing, Rousing, and Riveting\",";
+"AFTER_BOLD"="in text and dice, are characters and trademarks of Olusegun Victor Ibitoye and are protected by International Copyright laws.\n\nScripture taken from the HOLY BIBLE, NEW INTERNATIONAL VERSION®. Copyright © 1973, 1978, 1984, 2010 Biblica. Used by permission of Zondervan. All rights reserved.";
+"INFO_CREDITS"="CREDITS";
+"DESIGNER"="Designer";
+"DESIGNER_NAME"="- Segun Ibitoye ";
+"CONTRIBUTOR"="Contributor";
+"Scriptures"="(Scriptures)";
+"CONTRIBUTOR_NAME"="- Adetola Ibitoye";
+"EDITOR"="Editor";
+"EDITOR_NAME"="- Kathy Kehrli";
+"EDITOR_NAME_IPAD"="- Kathy Kehrli";
+"AUTHOR"="Author";
+"AUTHOR_NAME"="- Segun Ibitoye\n\nQuiz taken from";
+"BIBLE"="Bible Quiz for Princes and Princesses";
+"BY"="by ";
+"NAME"="Segun Ibitoye.";
+"END"=" Available in ebook and paperback formats.";
+
+/* ------------------ HELP Page --------------------*/
+"HELP_HEADING"="INSTRUCTIONS";
+"HELP_DETAILS"="To start, select at least";
+"CATEGORIES_SELECT"="two categories";
+"AFTER_CATEGORY"="and then proceed to choose the ";
+"LEVEL"="level";
+"AFTER_LEVEL"="you want to play. Each round has fifteen questions and you can play many rounds. In the free version, players are restricted to the";
+"LEVEL_NAME"="\"Easy\"";
+"AFT_LEVEL_NAME"="level. To play other levels, please purchase the full version by clicking on the";
+"BUY"="\"Buy\"";
+"AFT_BUY"="button in the \"QUIZ LEVELS\" screen, or by clicking on ";
+"UPGRADE"="\"Upgrade to Full Version\" ";
+"END_STR"="at the end of each round or when you have submitted your score.";
+"CREDITS"="Players will be presented with three types of questions in this app:\n";
+"AUTHER_DETAILS"="    • the four-choice multiple choice question,\n  • the five-choice multiple choice question, and \n  • the two-choice, True or False question";
+"END_STRING"="Choose one answer and follow the on-screen instruction. Where the question and answer choices are long, you may need to scroll up if you are using a Smartphone.  The wrong answer(s) will be highlighted in red colour and the location in the bible where users can verify the correct choice will also be displayed and underlined.  You have 60 seconds to answer each question. If you do not answer a question before time expires, the app will load the next question. At the end of each round of fifteen questions, your score, in percentage, will be displayed. Enjoy!\n\nQuiz taken from ";
+/* ----------- Buttons Text -------------------*/
+"INFO"="Info";
+"HELP"="Help";
+"PLAY"="Play";
+"RESTART"="Restart";
+"SUBMIT"="Submit";
+"NEXT"="Next";
+"BUY_BUTTON"="Buy";
+"RESTORE"="Restore";
+"LOADING_TEXT"="Loading...";
+/* -------------- QUIZ Categories Screen -------------*/
+"HEADING"="QUIZ CATEGORIES";
+"MIN CATEGORIES"="Choose at least two categories";
+"PEOPLE"="People";
+"PLACES"="Places";
+"EVENTS"="Events";
+"STATEMENTS"="Statements";
+"MISCELLANEOUS"="Miscellaneous";
+"SELECTALL"="Select All";
+
+/* -------------------- QUIZ Level -------------------------*/
+"QUIZ_LEVEL"="QUIZ LEVEL";
+"MIN LEVELS"="Choose one level";
+"EASY"="Easy";
+"INTERMEDIATE"="Intermediate";
+"ADVANCED"="Advanced";
+"INTERMEDIATE_LEVEL"="Medium";
+"ADVANCED_LEVEL"="Hard";
+"NO OF ROUNDS"="You have";
+"ROUNDS"="rounds!";
+
+/*------------------ Questions display page ----------------*/
+"QUESTION"="Question";
+"OF"="of";
+"LEVEL_SELECT"="Level";
+"ROUNDTEXT"="Round";
+/*------------------ Score Page ------------------------*/
+"INSPIRED"="BE INSPIRED!";
+"SCORE"="SCORE";
+"NAME LAB"="NAME";
+"LESS_THAN_40"="\“I can’t understand all of this! Such wonderful knowledge is far above me.\”  - Psalm 139:6";
+"EQUAL_40"="\“... An ordinary person can learn to be smart, and young people can gain knowledge and good sense. \” - Proverbs 1:4";
+"LESS_THAN_60"="\“Make fun of wisdom, and you will never find it. But if you have understanding, knowledge comes easily.\” - Proverbs 14:6";
+"EQUAL_60"="\“Let instruction and knowledge mean more to you than silver or the finest gold.\”  - Proverbs 8:10";
+"LESS_THAN_80"="\“This wonderful knowledge comes from the Lord All-Powerful.\”  - Isaiah 28:29";
+"GREATER_THAN_80"="\“... I am sure that you are very good and that you have all the knowledge you need to teach each other.\” - Romans 15:14";
+"EQUAL_100"="\“I have fought well. I have finished the race, and I have been faithful.\”  - 2 Timothy 4:7";
+"GET_ACCESS"="Get access to over 700 Q&As";
+"UPGRADE_VERSION"="Upgrade to Full Version";
+
+/*----------------------- Scores display Page -----------------*/
+"SCOREBOARD"="SCOREBOARD";
+"DATE"="DATE";
+/*------------------ Alert Messages ----------------------*/
+"NO OF CATEGORIES SELECT"="You must select at least two categories!";
+"UPGRADE MSG"="Please Upgrade to Full Version";
+"NO OF LEVELS"="You must select one level!";
+"ANSWER"="You must select one answer!";
+"UPGRADE_PLZ"="Please Upgrade to Full Version";
+"OKAY"="Ok";
+"CANCEL"="Cancel";
+"SCORE_NAME"="Please Enter name";
+"NETWORK_MESSAGE"="Internet is required to consult the server. Please check your settings to ensure you are connected.";
+"INAPP PURCHASR"="Your purchase was successful.";
+"NO_PRODUCTS"="No products found to restore!";
+"RESTORE_SUCCESS"="Products successfully restored";
+"FAILED_TRANCTION"="Failed Transaction";
+/*------------------ Rate This App ----------------------*/
+"Rate This App"="Taux 3R Bible Quiz";

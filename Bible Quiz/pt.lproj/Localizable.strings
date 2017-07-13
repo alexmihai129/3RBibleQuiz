@@ -1,0 +1,131 @@
+/* 
+  Localizable.strings
+  3R Bible Quiz
+
+  Created by Sirisha.G on 30/05/13.
+  Copyright (c) 2013 Sirisha.G. All rights reserved.
+*/
+
+/*------------------ Fonts ------------------------*/
+"MSB"="MyriadPro-BoldCond";
+"MREGULAR"="MyriadPro-Regular";
+"MBOLD"="MyriadPro-Bold";
+"MSEMIBOLD"="MyriadPro-Semibold";
+"RCON"="Roboto-Condensed";
+"MCON"="MyriadPro-Cond";
+
+"BUTTON_SIZE"="27";
+"BUTTON_SIZE_IPAD"="52";
+"UPGRADE_FONT_SIZE"="16";
+"HEADER_LAB_FONT"="20";
+"PAGE_TITLES"="27";
+"PAGE_TITLES_IPAD"="50";
+
+/* ---------------- INFO Page --------------------*/
+
+
+"HEADING_TEXT"="Desafie o Deakon v3.2";
+"DETAILS"="© 2013 O V Ibitoye. Todos os direitos reservados.O logo e o slogan do 3R Bible Quiz,";
+"BOLD"="\"Revelador, Cativante, e Estimulante\",";
+"AFTER_BOLD"="em texto e dados, são carateres e marcas registadas de Olusegun Victor Ibitoye e estão protegidos, segundo leis internacionais de Copyright.\n\nEscrituras extraídas da Biblia Sagrada, Nova Versão Internacional®, NVI® Copyright © 1993, 2000 de Biblica, Inc.™. Utilizado com permissão. Todos os direitos reservados, a nível mundial.";
+"INFO_CREDITS"="CRÉDITOS";
+"DESIGNER"="Designer";
+"DESIGNER_NAME"="- Segun Ibitoye ";
+"CONTRIBUTOR"="Colaborador";
+"Scriptures"="(Escrituras)";
+"CONTRIBUTOR_NAME"="- Adetola Ibitoye";
+"EDITOR"="Tradutores";
+"EDITOR_NAME"="- João Ferreira\n                                                   - Elda Veiga";
+"EDITOR_NAME_IPAD"="- João Ferreira\n                                                                                                             - Elda Veiga";
+"AUTHOR"="Autor";
+"AUTHOR_NAME"="- Segun Ibitoye\n\nQuestionário extraído de ";
+"BIBLE"="Questionário Bíblico para Príncipes e Princesas";
+"BY"="de ";
+"NAME"="Segun Ibitoye.";
+"END"=" Disponível em e-book e em formato impresso.";
+
+/* ------------------ HELP Page --------------------*/
+"HELP_HEADING"="INSTRUÇÕES";
+"HELP_DETAILS"="Para começar, selecione pelo menos";
+"CATEGORIES_SELECT"="duas categorias,";
+"AFTER_CATEGORY"="e depois escolha o ";
+"LEVEL"="nível ";
+"AFTER_LEVEL"="em que quer jogar. Cada ronda é composta por quinze questões, e pode jogar várias rondas. Na versão grátis é apenas possível jogar no nível";
+"LEVEL_NAME"="\"Fácil\"";
+"AFT_LEVEL_NAME"="Para jogar outros níveis, por favor compre a versão completa, clicando em";
+"BUY"="\"Comprar\"";
+"AFT_BUY"=", no ecrã de \"NÍVEIS\", ou clicando em ";
+"UPGRADE"="\"Obter a Versão Completa\", ";
+"END_STR"="no fim de cada ronda, ou quando tiver submetido a sua pontuação.";
+"CREDITS"="Os jogadores irão deparar-se com três tipos de questões:\n";
+"AUTHER_DETAILS"="    • Escolhas múltiplas com quatro opções,\n  • Escolhas múltiplas com cinco opções \n  • Perguntas de Verdadeiro/Falso";
+"END_STRING"="Escolha uma resposta, e siga as instruções. Quando a pergunta e resposta são longas, pode ser necessário subir no ecrã, caso esteja a utilizar um smartphone. As respostas erradas serão assinaladas a vermelho, e a localização na Bíblia onde os utilizadores podem encontrar a resposta correta será também apresentada. Dispõe de 60 segundos para dar cada resposta. Se não der uma resposta dentro do tempo, a app irá carregar a questão seguinte. No fim de cada ronda de 15 questões, o seu resultado será apresentado (em percentagem). Divirta-se!\n\nQuestionário extraído de ";
+/* ----------- Buttons Text -------------------*/
+"INFO"="Info";
+"HELP"="Ajuda";
+"PLAY"="Jogar";
+"RESTART"="Recomeçar";
+"SUBMIT"="Submeter";
+"NEXT"="Próximo";
+"BUY_BUTTON"="Comprar";
+"RESTORE"="Restaurar";
+"LOADING_TEXT"="A carregar…";
+/* -------------- QUIZ Categories Screen -------------*/
+"HEADING"="CATEGORIAS";
+"MIN CATEGORIES"="Escolha pelo menos duas categorias";
+"PEOPLE"="Pessoas";
+"PLACES"="Lugares";
+"EVENTS"="Eventos";
+"STATEMENTS"="Declarações";
+"MISCELLANEOUS"="Miscelânea";
+"SELECTALL"="Selecionar Todos";
+
+/* -------------------- QUIZ Level -------------------------*/
+"QUIZ_LEVEL"="NÍVEIS";
+"MIN LEVELS"="Escolha um nível";
+"EASY"="Fácil";
+"INTERMEDIATE"="Médio";
+"ADVANCED"="Avançado";
+"INTERMEDIATE_LEVEL"="Intermédio";
+"ADVANCED_LEVEL"="Avançado";
+"NO OF ROUNDS"="Tem ";
+"ROUNDS"="rondas!";
+
+/*------------------ Questions display page ----------------*/
+"QUESTION"="Pergunta";
+"OF"="de";
+"LEVEL_SELECT"="Nível";
+"ROUNDTEXT"="Rodada";
+/*------------------ Score Page ------------------------*/
+"INSPIRED"="INSPIRE-SE!";
+"SCORE"="PONTUAÇÃO";
+"NAME LAB"="NOME";
+"LESS_THAN_40"="\“É uma sabedoria profunda, que não posso compreender; tão sublime, que a não posso atingir!\” – Livro de Salmos 139:6";
+"EQUAL_40"="\“…para dar aos simples o discernimento, e ao jovem, conhecimento e reflexão.\” Provérbios 1:4";
+"LESS_THAN_60"="\“O insolente busca a sabedoria, mas em vão; para o prudente, é fácil encontrar o conhecimento.\” Provérbios 14:6";
+"EQUAL_60"="\“Aceitai a minha correção, e não a prata; e o conhecimento, mais do que o ouro fino escolhido.\” – Provérbios 8:10";
+"LESS_THAN_80"="\“Também este proceder vem do Senhor do Universo, cujo conselho é admirável e grande a sua eficiência.\” – Isaías 28:29";
+"GREATER_THAN_80"="\“… Estou pessoalmente convencido de que vós próprios estais cheios de boa vontade, repletos de toda a espécie de conhecimento, e com capacidade para vos aconselhardes uns aos outros.\” – Romanos 15:14";
+"EQUAL_100"="\“Combati o bom combate, terminei a corrida, permaneci fiel.\” – 2ª a Timóteo 4:7";
+"GET_ACCESS"="Obter mais de 700\n Perguntas e Respostas";
+"UPGRADE_VERSION"="Obter a versão completa";
+
+/*----------------------- Scores display Page -----------------*/
+"SCOREBOARD"="PONTUAÇÕES";
+"DATE"="DATA";
+/*------------------ Alert Messages ----------------------*/
+"NO OF CATEGORIES SELECT"="Tem de escolher pelo menos duas categorias!";
+"UPGRADE MSG"="Por favor obtenha a versão completa";
+"NO OF LEVELS"="Tem de escolher pelo menos um nível!";
+"ANSWER"="Tem de escolher pelo menos uma resposta!";
+"UPGRADE_PLZ"="Por favor obtenha a versão completa";
+"OKAY"="Okay";
+"CANCEL"="Cancelar";
+"SCORE_NAME"="Por favor escreva o seu nome";
+"NETWORK_MESSAGE"="É necessário um serviço de Internet para consultar o servidor. Por favor, verifique as suas definições de forma a garantir que você esteja conectado.";
+"INAPP PURCHASR"="Sua compra foi bem sucedida.";
+"NO_PRODUCTS"="Nenhum produto foi encontrado para restaurar!";
+"RESTORE_SUCCESS"="Produtos restaurados com sucesso";
+"FAILED_TRANCTION"="Transaction Failed";
+/*------------------ Rate This App ----------------------*/
+"Rate This App"="Classifique 3R Bible Quiz";

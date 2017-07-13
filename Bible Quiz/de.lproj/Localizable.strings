@@ -1,0 +1,131 @@
+/* 
+  Localizable.strings
+  3R Bible Quiz
+
+  Created by Sirisha.G on 30/05/13.
+  Copyright (c) 2013 Sirisha.G. All rights reserved.
+*/
+
+/*------------------ Fonts ------------------------*/
+"MSB"="MyriadPro-BoldCond";
+"MREGULAR"="MyriadPro-Regular";
+"MBOLD"="MyriadPro-Bold";
+"MSEMIBOLD"="MyriadPro-Semibold";
+"RCON"="Roboto-Condensed";
+"MCON"="MyriadPro-Cond";
+
+"BUTTON_SIZE"="27";
+"BUTTON_SIZE_IPAD"="52";
+"UPGRADE_FONT_SIZE"="18";
+"HEADER_LAB_FONT"="20";
+"PAGE_TITLES"="27";
+"PAGE_TITLES_IPAD"="50";
+
+/* ---------------- INFO Page --------------------*/
+
+
+"HEADING_TEXT"="Fordere den Deakon heraus v3.2";
+"DETAILS"="© 2013 O V Ibitoye. Alle Rechte vorbehalten. 3R Bibel Quiz Logo und der Slogan ";
+"BOLD"="\"Offenbarend, Mitreißend und Fesselnd\",";
+"AFTER_BOLD"="sind Zeichen und Warenzeichen von Olusegun Victor Ibitoye und sind urheberrechtlich geschützt. \n\nBibeltext der Schlachter.Copyright © 2000 Genfer Bibelgesellschaft. Wiedergegeben mit freundlicher Genehmigung. Alle Rechte vorbehalten.";
+"INFO_CREDITS"="CREDITS";
+"DESIGNER"="Entwickler";
+"DESIGNER_NAME"="- Segun Ibitoye";//
+"CONTRIBUTOR"="Mitwirkender";
+"Scriptures"="(Heilige Schrift)";
+"CONTRIBUTOR_NAME"="- Adetola Ibitoye";
+"EDITOR"="Übersetzer";
+"EDITOR_NAME"="- Edith Schneider";
+"EDITOR_NAME_IPAD"="- Edith Schneider";
+"AUTHOR"="Autor";
+"AUTHOR_NAME"="- Segun Ibitoye\n\nQuiz aus";//
+"BIBLE"="Bibel-Quiz für Prinzen und Prinzessinnens";
+"BY"="von";
+"NAME"="Segun Ibitoye";
+"END"=" entnommen. Verfügbar als E-Book und im Taschenbuchformat.";
+
+/* ------------------ HELP Page --------------------*/
+"HELP_HEADING"="ANLEITUNG";
+"HELP_DETAILS"="Um zu starten, wähle mindestens";
+"CATEGORIES_SELECT"="zwei Kategorien";
+"AFTER_CATEGORY"="und wähle dann das ";
+"LEVEL"="Level ";
+"AFTER_LEVEL"="welches du spielen möchtest. Jede Runde besteht aus fünfzehn Fragen und du kannst mehrere Runden spielen. In der kostenlosen Version ist das Spiel auf das „";
+"LEVEL_NAME"="Einfache“";
+"AFT_LEVEL_NAME"="Level beschränkt. Um die anderen Level zu spielen, erwerbe bitte die Vollversion, indem du auf den  „";
+"BUY"="Kaufen“";
+"AFT_BUY"=". Button im  „QUIZ LEVELS“ Menü klickst. Alternativ kannst du auch auf die Schaltfläche  „";
+"UPGRADE"="Zur Vollversion upgraden“ ";
+"END_STR"=" klicken, welche am Ende jeder Runde und nach dem Absenden der Punktzahl erscheint.";
+"CREDITS"="Den Spielern werden in dieser App drei verschiedene Fragetypen gestellt:\n";
+"AUTHER_DETAILS"="    • die Multiple-Choice-Frage mit vier Antwortmöglichkeiten,\n  • die Multiple-Choice-Frage mit fünf Antwortmöglichkeiten und \n  • die Wahr/Falsch Frage mit zwei Antwortmöglichkeiten";
+"END_STRING"="Wähle eine Antwort und befolge die Anweisungen auf dem Bildschirm. Falls die Frage und Antwortmöglichkeiten sehr lang sein, könnte es sein, dass man auf einem Smartphone nach oben scrollen muss. Die falsche(n) Antwort(en) werden rot markiert, und die Bibelstelle, in der die Spieler die richtige Antwort nachsehen können, wird ebenfalls angezeigt und unterstrichen. Man hat für jede Frage 60 Sekunden Zeit zum Antworten. Solltest du die Frage vor Ablauf der Zeit nicht beantworten, wird die nächste Frage geladen. Am Ende jeder Runde, aus fünfzehn Fragen bestehend, wird deine Punktzahl als Prozentzahl dargestellt. Viel Spaß!\n\nQuiz aus ";
+/* ----------- Buttons Text -------------------*/
+"INFO"="Info";
+"HELP"="Hilfe";
+"PLAY"="Start";
+"RESTART"="Neustart";
+"SUBMIT"="Absenden";
+"NEXT"="Weiter";
+"BUY_BUTTON"="Kaufen";
+"RESTORE"="Erneuern";
+"LOADING_TEXT"="Ladevorgang...";
+/* -------------- QUIZ Categories Screen -------------*/
+"HEADING"="QUIZ KATEGORIEN";
+"MIN CATEGORIES"="Wähle mindestens zwei Kategorien";
+"PEOPLE"="Personen";
+"PLACES"="Orte";
+"EVENTS"="Ereignisse";
+"STATEMENTS"="Aussagen";
+"MISCELLANEOUS"="Verschiedenes";
+"SELECTALL"="Wähle alle";
+
+/* -------------------- QUIZ Level -------------------------*/
+"QUIZ_LEVEL"="QUIZ LEVEL";
+"MIN LEVELS"="Wähle eine Schwierigkeitsstufe";
+"EASY"="Einfach";
+"INTERMEDIATE"="Mittel";
+"ADVANCED"="Fortgeschritten";
+"INTERMEDIATE_LEVEL"="Mittel";
+"ADVANCED_LEVEL"="Fortgeschritten";
+"NO OF ROUNDS"="Du hast";
+"ROUNDS"="Runden!";
+
+/*------------------ Questions display page ----------------*/
+"QUESTION"="Frage";
+"OF"="von";
+"LEVEL_SELECT"="Level";
+"ROUNDTEXT"="Runde";
+/*------------------ Score Page ------------------------*/
+"INSPIRED"="WERDE INSPIRIERT!";
+"SCORE"="PUNKTZAHL";
+"NAME LAB"="NAME";
+"LESS_THAN_40"="„Diese Erkenntnis ist mir zu wunderbar, zu hoch, als dass ich sie fassen könnte!“  - Psalm 139:6";
+"EQUAL_40"="„…damit den Unverständigen Klugheit verliehen werde, den jungen Männern Erkenntnis und Besonnenheit.“ – Sprüche 1:4";
+"LESS_THAN_60"="„Ein Spötter sucht Weisheit und findet sie nicht, doch für den Verständigen ist Erkenntnis leicht.“ – Sprüche 14:6";
+"EQUAL_60"="„Nehmt meine Unterweisung an und nicht Silber, und Erkenntnis lieber als feines Gold!“ – Sprüche 8:10";
+"LESS_THAN_80"="„Auch dies geht aus von dem HERRN der Heerscharen; denn sein Rat ist wunderbar, und er führt es herrlich hinaus.“ – Jesaja 28:29";
+"GREATER_THAN_80"="„Ich selbst habe aber, meine Brüder, die feste Überzeugung von euch, dass auch ihr selbst voll Gütigkeit seid, erfüllt mit aller Erkenntnis und fähig, einander zu ermahnen.“ – Römer 15:14";
+"EQUAL_100"="„Ich habe den guten Kampf gekämpft, den Lauf vollendet, den Glauben bewahrt.“ – 2 Timotheus 4:7";
+"GET_ACCESS"="Hol dir Zugang zu über\n700 F&A";
+"UPGRADE_VERSION"="Zur Vollversion upgraden";
+
+/*----------------------- Scores display Page -----------------*/
+"SCOREBOARD"="SPIELSTAND";
+"DATE"="DATUM";
+/*------------------ Alert Messages ----------------------*/
+"NO OF CATEGORIES SELECT"="Du musst mindestens zwei Kategorien wählen!";
+"UPGRADE MSG"="Bitte zur Vollversion upgraden";
+"NO OF LEVELS"="Du musst ein Level wählen!";
+"ANSWER"="Du musst eine Antwort auswählen!";
+"UPGRADE_PLZ"="Bitte zur Vollversion upgraden";
+"OKAY"="Ok";
+"CANCEL"="Abbrechen";
+"SCORE_NAME"="Bitte gib deinen Namen ein";
+"NETWORK_MESSAGE"="Internet wird angefordert, den Server zu konsultieren. Überprüfen Sie bitte Ihre Einstellungen, um sicherzustellen, dass Sie angeschlossen werden";
+"INAPP PURCHASR"="Ihr Kauf erfolgreich war.";
+"NO_PRODUCTS"="Keine Produkte gefunden wiederherstellen!";
+"RESTORE_SUCCESS"="Produkte erfolgreich wiederhergestellt";
+"FAILED_TRANCTION"="Fehlgeschlagene Transaktion";
+/*------------------ Rate This App ----------------------*/
+"Rate This App"="Bewerten 3R Bibel Quiz";

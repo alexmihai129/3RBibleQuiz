@@ -1,0 +1,131 @@
+/* 
+  Localizable.strings
+  3R Bible Quiz
+
+  Created by Sirisha.G on 30/05/13.
+  Copyright (c) 2013 Sirisha.G. All rights reserved.
+*/
+
+/*------------------ Fonts ------------------------*/
+"MSB"="MyriadPro-BoldCond"; //MyriadPro-Bold
+"MREGULAR"="SimSun";
+"MBOLD"="MyriadPro-Semibold";//AdobeHeitiStd-Regular//MyriadPro-Semibold
+"MSEMIBOLD"="MyriadPro-Semibold";
+"RCON"="Roboto-Condensed";
+"MCON"="MyriadPro-Cond";
+
+"BUTTON_SIZE"="27";
+"BUTTON_SIZE_IPAD"="52";
+"UPGRADE_FONT_SIZE"="18";
+"HEADER_LAB_FONT"="20";
+"PAGE_TITLES"="27";
+"PAGE_TITLES_IPAD"="50";
+
+/* ---------------- INFO Page --------------------*/
+
+
+"HEADING_TEXT"="挑战Deakon v3.2";
+"DETAILS"="版权2013 归OV Ibitoye所有。保留所有权利 3R圣经测验的标志和口号，";
+"BOLD"="\"彰显,  激励, 引人入胜\",";
+"AFTER_BOLD"="的文本及骰子均是Olusegun Victor Ibitoye 的字符和商标，并受国际版权法保护。\n\n经文取自中文现代标点和合本（简体）®。版权所有©2011亚洲圣经协会。保留所有权利。";
+"INFO_CREDITS"="鸣谢";
+"DESIGNER"="设计者";
+"DESIGNER_NAME"="- Segun Ibitoye";
+"CONTRIBUTOR"="贡献者";
+"Scriptures"="(经文)";
+"CONTRIBUTOR_NAME"="- Adetola Ibitoye";
+"EDITOR"="翻译者";
+"EDITOR_NAME"="- 何雅祺\n                 - 何玮羚";
+"EDITOR_NAME_IPAD"="- 何雅祺\n                                             - 何玮羚";
+"AUTHOR"="作者";
+"AUTHOR_NAME"="- Segun Ibitoye\n\n测验采自";
+"BIBLE"="Segun Ibitoye";
+"BY"="所著 ";
+"NAME"="《圣经知识问答》。";
+"END"="电子书和平装格式均有。";
+
+/* ------------------ HELP Page --------------------*/
+"HELP_HEADING"="说明";
+"HELP_DETAILS"="要开始，请选择至少";
+"CATEGORIES_SELECT"=" 两个类别 ";
+"AFTER_CATEGORY"="然后选择你要测试的";
+"LEVEL"=" 水平。";
+"AFTER_LEVEL"="每一轮有15个问题，你可以测试很多轮。在免费版本中，测试者被限制在";
+"LEVEL_NAME"="\"容\"";
+"AFT_LEVEL_NAME"="的水平。要测其它水平，请在 \"测试水平\" 页面上点击";
+"BUY"="\"购买\"";
+"AFT_BUY"="按钮； 或在每一轮结束时，或当你提交你的分数时点击";
+"UPGRADE"="\"升级到完整版本\" ";
+"END_STR"="";
+"CREDITS"="此应用程序提供测试者的问题有三种类型：\n";
+"AUTHER_DETAILS"=" • 四个选择的多项选择题，\n • 五个选择的多项选择题， \n • 两个选择，真或假的问题";
+"END_STRING"="选择一个回答，然后按照屏幕上的指令而行。当问题和答案的选项较长时，如果你使用的是智能手机可能需要向上滚动。错误的选择将以红色高亮显示；答案在圣经中的位置也会被显示，以便用户验证正确的选择。你有60秒的时间回答每个问题。如果你在这时限之前未回答一个问题，应用程序将加载下一个问题。每一轮的15个问题结束时，你的分数将以百分比显示出来。祝你用得开心！\n\n测验采自";
+/* ----------- Buttons Text -------------------*/
+"INFO"="信息";
+"HELP"="帮助";
+"PLAY"="测试";
+"RESTART"="重新开始";
+"SUBMIT"="提交";
+"NEXT"="下一个";
+"BUY_BUTTON"="购买";
+"RESTORE"="恢复";
+"LOADING_TEXT"="正在加载";
+/* -------------- QUIZ Categories Screen -------------*/
+"HEADING"="测验类别";
+"MIN CATEGORIES"="至少选择两个类别";
+"PEOPLE"="人物";
+"PLACES"="地方";
+"EVENTS"="活动"; 
+"STATEMENTS"="陈述";
+"MISCELLANEOUS"="杂项";
+"SELECTALL"="全选";
+
+/* -------------------- QUIZ Level -------------------------*/
+"QUIZ_LEVEL"="测验水平";
+"MIN LEVELS"="选择一个水平";
+"EASY"="容易";
+"INTERMEDIATE"="中等";
+"ADVANCED"="高级";
+"INTERMEDIATE_LEVEL"="一般";
+"ADVANCED_LEVEL"="难";
+"NO OF ROUNDS"="你有";
+"ROUNDS"="轮 ！";
+"ROUNDTEXT"="第";
+/*------------------ Questions display page ----------------*/
+"QUESTION"="问题";
+"OF"="/";
+"LEVEL_SELECT"="级";
+
+/*------------------ Score Page ------------------------*/
+"INSPIRED"="得到启发！";
+"SCORE"="分数";
+"NAME LAB"="名字";
+"LESS_THAN_40"="\“我无法理解这一切！这奇妙的知识远远超过了我。\” -诗篇139:6";
+"EQUAL_40"="\“...一个平凡的人可以通过学习变得聪明，且年轻人可以获得知识和良好的意识。”-箴言1:4";
+"LESS_THAN_60"="\“拿智慧取乐，你将永远不会找到它。但如果你有了理解，知识就来得容易。”-箴言14:6";
+"EQUAL_60"="\“让指令和知识对于你的意味比银子或最好的黄金还多。”-箴言8:10";
+"LESS_THAN_80"="\“这份奇妙的知识来源于全能的主。”-以赛亚书28:29";
+"GREATER_THAN_80"="\“...我相信你是非常好的，你已有所有的知识可相互传授。”-罗马书15:14";
+"EQUAL_100"="\“我战绩良好，我已经完成了比赛，且我一直忠实。”- 2蒂莫西4：7";
+"GET_ACCESS"="获得700\n多个问题和答案";
+"UPGRADE_VERSION"="升级到完整版";
+
+/*----------------------- Scores display Page -----------------*/
+"SCOREBOARD"="记分牌";
+"DATE"="日期";
+/*------------------ Alert Messages ----------------------*/
+"NO OF CATEGORIES SELECT"="您必须选择至少两个类别！";
+"UPGRADE MSG"="请升级到完整版本";
+"NO OF LEVELS"="你必须选择一个级别！ ";
+"ANSWER"="你必须选择一个答案！";
+"UPGRADE_PLZ"="请升级到完整版本";
+"OKAY"="好吧";
+"CANCEL"="取消";
+"SCORE_NAME"="请输入您的姓名";
+"NETWORK_MESSAGE"="互联网是对咨询所需的服务器。 请检查您的设置,请确保您已连接。";
+"INAPP PURCHASR"="你购买成功。";
+"NO_PRODUCTS"="没有找到产品恢复！";
+"RESTORE_SUCCESS"="产品已成功恢复";
+"FAILED_TRANCTION"="失败交易";
+/*------------------ Rate This App ----------------------*/
+"Rate This App"="请评价3R圣经问答比赛";
